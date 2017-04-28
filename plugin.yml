@@ -1,0 +1,16 @@
+name: SG
+version: 1.0
+author: SpriteTV
+main: at.spritetv.sg.SG
+commands:
+  setlobby:
+  setspeclobby:
+  setspawn1:
+  stats:
+  start:
+  setdmspawn:
+  setdmspeclobby:
+  setspawn2:
+  setspawn3:
+  build:
+  settop:
